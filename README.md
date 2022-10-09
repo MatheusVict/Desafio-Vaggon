@@ -10,7 +10,8 @@
 - middlewares de autenticação
 - criação de tables facilitada com TypeOrm
 - escrito em typescript
-- crud completo das tasks
+- crud completo das tasks 
+- Feito em Typescript
 
 ## inicie dando um clone do projeto:
 
