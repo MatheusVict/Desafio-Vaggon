@@ -1,8 +1,6 @@
 import 'reflect-metadata';
 import { DataSource } from "typeorm";
 
-const port = Number(process.env.DB_PORT)
-
 export const AppDataSource = new DataSource({
     type: "mysql",
     host: "localhost",
